@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/example-classification-orange?style=plastic)
 ![](https://img.shields.io/badge/data-mnist-yellow?style=plastic)
 
-**Paper:** [](https://arxiv.org/pdf/1512.03385.pdf)
+**Paper:** [ResNet](https://arxiv.org/pdf/1512.03385.pdf)
 
 **Example:**
 
