@@ -2,30 +2,14 @@
 <hr>
 
 ## Contents
+- [**EDSR**](#EDSR)
 - [**Resnet**](#Resnet)
-4
+- [**Wavenet**](#WWavenet)
 
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
 ## Resnet
+<hr>
+**Paper:** https://arxiv.org/pdf/1512.03385.pdf
+**Example:**
+**Take Away:**
+**Summary:**
+**Architecture:**
