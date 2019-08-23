@@ -6,6 +6,9 @@
 - [**Resnet**](#Resnet)
 - [**Wavenet**](#WWavenet)
 
+Note: AlexNet; VGG; SqueezeNet; Densenet; Inception
+
+
 ## Resnet
 ![](https://img.shields.io/badge/code-pytorch-green?style=plastic)
 ![](https://img.shields.io/badge/example-classification-orange?style=plastic)
