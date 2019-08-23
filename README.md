@@ -5,9 +5,13 @@
 
 - **Definitions**
   - Channel
+  - Volume
+  - Activation / Non-linearity
+  - Kernel / Filter
   - Dimension
   - Feature Map
   - Receptive Field
+  - Pooling
   - Batch Normalization -  Used to ensure that forward propagated signals have non-zero variances.This can help with vanishing signals both forward and backwards.
 
 - **Datasets**
@@ -21,6 +25,10 @@
   - Mean Square Error
   - Cross Entropy
   - Negative Log Likelihood
+  - Softmax
+  - Sigmoid
+  - Tanh
+  
 - **Models**
   - [**EDSR**](#EDSR)
   - [**Resnet**](#Resnet)
@@ -89,3 +97,8 @@ Note: AlexNet (2012); VGG; SqueezeNet; Densenet; Inception
 Vanishing/exploding gradients can be solved by normalizing initializations and intermediate normalization layers.
 
 deeper networks can result in accuracy saturation, but not caused by overfitting.
+
+
+
+**Resources**
+- https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2
