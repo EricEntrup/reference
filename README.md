@@ -2,9 +2,15 @@
 
 
 ## Contents
-- [**EDSR**](#EDSR)
-- [**Resnet**](#Resnet)
-- [**Wavenet**](#WWavenet)
+
+- **Loss Functions**
+  - Mean Square Error
+  - Cross Entropy
+  - Negative Log Likelihood
+- **Models**
+  - [**EDSR**](#EDSR)
+  - [**Resnet**](#Resnet)
+  - [**Wavenet**](#WWavenet)
 
 Note: AlexNet; VGG; SqueezeNet; Densenet; Inception
 
