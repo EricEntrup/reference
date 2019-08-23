@@ -8,6 +8,7 @@
   - Dimension
   - Feature Map
   - Receptive Field
+  - Batch Normalization -  Used to ensure that forward propagated signals have non-zero variances.
 
 - **Datasets**
   - MNIST
