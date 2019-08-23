@@ -38,7 +38,7 @@ Note: AlexNet; VGG; SqueezeNet; Densenet; Inception
 
 **Example:** [Classification of Digits using Resnet]()
 
-**Take Away:** We expect that a deep network will be able to perform as well or better than a shallow netowrk. This is expected because we hope that for every additional layer in the deep network will be able to learn an identity mapping. However, through experiments, this was shown to be false. The ResNet paper proposes a solution to this *degradation* problem by introducing residual connections.
+**Take Away:** We expect that a deep network will be able to perform as well or better than a shallow netowrk. This is expected because we hope that for every additional layer in the deep network will be able to learn an identity mapping. However, through experiments, this was shown to be false. The ResNet paper proposes a solution to this *degradation* problem by introducing residual connections or shortcut connects as identity mappings.
 
 
 
