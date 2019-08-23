@@ -3,6 +3,12 @@
 
 ## Contents
 
+- **Definitions**
+  - Channel
+  - Dimension
+  - Feature Map
+  - Receptive Field
+
 - **Datasets**
   - MNIST
   - Iris
