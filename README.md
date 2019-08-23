@@ -10,9 +10,9 @@ Note: AlexNet; VGG; SqueezeNet; Densenet; Inception
 
 
 ## Resnet
-![](https://img.shields.io/badge/code-pytorch-green?style=plastic)
+![](https://img.shields.io/badge/code-pytorch-1abc9c?style=plastic)
 ![](https://img.shields.io/badge/example-classification-orange?style=plastic)
-![](https://img.shields.io/badge/data-mnist-navy?style=plastic)
+![](https://img.shields.io/badge/data-mnist-1f425f?style=plastic)
 
 **Paper:** [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
 
