@@ -3,6 +3,13 @@
 
 ## Contents
 
+- **Datasets**
+  - MNIST
+  - Iris
+  - ImageNet
+  - COCO
+  
+
 - **Loss Functions**
   - Mean Square Error
   - Cross Entropy
